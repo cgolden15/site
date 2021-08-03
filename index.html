@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>jjk</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="css/css-style.css">
+        <link rel="shortcut icon" type="image/png" href="favicons/img-favicon.png">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">      
+    </head>
+    <body>
+
+      <input type="text" value="jjk#0501" id="copy">
+
+        <div id="enter">
+            <b class="begin">Click to enter</b>
+        </div>
+
+        <div id="main">
+            <canvas id="noise" class="noise fixed-fluid"></canvas>
+            <video id="video">
+				<source loop="true" id="vid" src="assets/vid/source.mp4" type="video/mp4">                
+			</source></video>
+            <div class="social">
+                <a onclick="copy()" class="popup" href="jjk.html"><img class="dc" src="images/img-dc.svg"><span class="popuptext" id="myPopup">Copied!</span></a>
+                <a href="https://instagram.com/jasonjjk" target="_blank"><img class="ig" src="images/img-ig.svg"></a>
+            </div>
+        </div>
+
+        <!-- Javascript -->
+        <script src="js/js-enter.js"></script>
+        <script src="js/js-noise.js"></script>
+        <script>
+          function copy() {
+            var copyText = document.getElementById("copy");
+            var popup = document.getElementById("myPopup");
+            copyText.select();
+            document.execCommand("copy");
+            popup.classList.toggle("show");
+          }
+        </script>
+
+    </body>
+</html>
