@@ -280,7 +280,7 @@ body {
     background-color: #000;
     object-position: center center;
     transform: translate(-50%, -50%);
-    background-image: url('https://raw.githubusercontent.com/cgolden15/cgolden15.github.io/main/images/img-stars.gif');
+    background-image: url(https://raw.githubusercontent.com/cgolden15/cgolden15.github.io/main/images/img-stars.gif);
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 1);
 }
 
