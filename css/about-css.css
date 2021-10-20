@@ -1,12 +1,10 @@
-element.style {
-    background: #22272e;
-}
 
 body {
     /* Typography Declarations */
     color: #ffffff;
     font-size: 1em;
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    background: #22272e;
 }
 
 .content-footer,
