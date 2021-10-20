@@ -1,6 +1,10 @@
+element.style {
+    background: #22272e;
+}
+
 body {
     /* Typography Declarations */
-    color: #222222;
+    color: #ffffff;
     font-size: 1em;
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
 }
@@ -13,7 +17,7 @@ body {
 
 .masthead {
   padding: 6em 0;
-  background-image: url('https://i.imgur.com/yGmrlyg.jpg');
+  background-image: url('https://wallpaperaccess.com/full/314789.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   border-top: solid 1em #FFCF33;
@@ -29,7 +33,7 @@ body {
 
 .masthead-heading {
     /* Layout Declarations */
-    color: #F1C863;
+    color: #ffffff;
     margin-top: -0.2em;
     /* Typography Declarations */
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
