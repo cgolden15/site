@@ -29,6 +29,8 @@ permalink: /
 
 *- * Accessable through[alternate URL](https://website-aio-cameronja14u4o9xb.koyeb.app/)*
 
+[Live status monitor](https://stats.uptimerobot.com/mMYm2cpLDG)
+
 <h3 style="text-align: center;"> Looking for a back-end developer?</h3>
 
 > <p style="text-align: center;"> I offer a wide range of services, from cloud hosting to Discord & Slack bots! Check it all out on my <a href="https://goldenn.dev/posts/comissions">comissions post</a>! I am currently open for all types of project comissions! Contact me at <a href="mailto:cameron@goldenn.dev">cameron@goldenn.dev</a> or add me on discord @Golden!!#8008 for more information.<br>  <br> <u>Rates start at just $10/hr!</u></p>
