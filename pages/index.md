@@ -24,10 +24,9 @@ permalink: /
 | Name        | Status  | URL          |
 | :---------- | :------ | :----------- |
 | Slope Game  | Online  | [goldenn.dev/Slope-Game](https://goldenn.dev/Slope-Game) |
-| Holy Unblocker | Online | [eic.goldenn.dev](https://eic.goldenn.dev) |
+| Holy Unblocker |  Back Online!! | [eic.goldenn.dev](https://eic.goldenn.dev) |
 | Tetris     | Online   | [goldenn.dev/tetris](https://goldenn.dev/tetris) |
 
-*- * Accessable through[alternate URL](https://website-aio-cameronja14u4o9xb.koyeb.app/)*
 
 [Live status monitor](https://stats.uptimerobot.com/mMYm2cpLDG)
 
