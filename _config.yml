@@ -1,9 +1,9 @@
 # 1. Site Settings
 title               : Homepage
 owner               : "Golden"
-url                 : "https://goldenn.dev/"
+url                 : "https://goldenn.dev"
 baseurl             : ""
-permalink           : /:title/
+permalink           : /:title
 description         : "The homepage of Golden, your friendly neighborhood CS Major"
 markdown            : kramdown
 bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]<>~" # texts randomly displayed in background
@@ -46,6 +46,7 @@ collections:
  #   alias           : "My Notes"
   posts:
     output          : true
+    permalink       : /:collection/:title/
 
 # 3. Comment settings（disqus.com）
 #disqus_username     : THISBETTERNOTBEAUSERNAMEFFS
