@@ -1,12 +1,11 @@
 # 1. Site Settings
 title               : Homepage
 owner               : "Golden"
-url                : "https://goldenn.dev/"
-baseurl            : "/"
+url                 : "https://goldenn.dev/"
+baseurl             : ""
 permalink           : /:title/
 description         : "The homepage of Golden, your friendly neighborhood CS Major"
 markdown            : kramdown
-# statement           : "Designed by DeerRIDER, All Rights Reserved"
 bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]<>~" # texts randomly displayed in background
 
 # 2. Your Collections
