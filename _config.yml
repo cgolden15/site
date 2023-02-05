@@ -24,7 +24,7 @@ collections:
 #    alias           : "Mathematics"
   portfolio:
     output          : true
-    permalink       : /:collection/:title/
+    permalink       : /:collection/:title
     order: # specify post order manually
 #  album:
 #    output          : true
@@ -46,7 +46,7 @@ collections:
  #   alias           : "My Notes"
   posts:
     output          : true
-    permalink       : /:collection/:title/
+    permalink       : /:collection/:title
 
 # 3. Comment settings（disqus.com）
 #disqus_username     : THISBETTERNOTBEAUSERNAMEFFS
