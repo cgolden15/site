@@ -46,6 +46,7 @@ collections:
  #   alias           : "My Notes"
   posts:
     output          : true
+    permalink       : /:collection/:title/
 
 # 3. Comment settings（disqus.com）
 #disqus_username     : THISBETTERNOTBEAUSERNAMEFFS
