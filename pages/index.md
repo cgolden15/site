@@ -27,7 +27,8 @@ permalink: /
 | Holy Unblocker |  Online * | [eic.goldenn.dev](https://eic.goldenn.dev) |
 | Tetris     | Online   | [goldenn.dev/tetris](https://goldenn.dev/tetris) |
 
-*- * Accessable through [alternate URL](https://website-aio-cameronja14u4o9xb.koyeb.app/)*
+*- * If blocked try our [alternate URL](https://website-aio-cameronja14u4o9xb.koyeb.app/)*
+*- * I am aware of issues for many districts having blocked this, I will be adding an additional proxy soon.*
 
 [Live status monitor](https://stats.uptimerobot.com/mMYm2cpLDG)
 
