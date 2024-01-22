@@ -1,112 +1,33 @@
-# 1. Site Settings
-title               : Homepage
-owner               : "Golden"
-url                 : "https://goldenn.dev"
-baseurl             : ""
-permalink           : /:title
-description         : "The homepage of Golden, your friendly neighborhood CS Major"
-markdown            : kramdown
-bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]<>~" # texts randomly displayed in background
+# REQUIRED CHANGES
+# Edit next line to provide your own name.
+title: Cameron Golden | Portfolio
+# Edit next line, replacing 'techfolios' with your github username
+url: "https://cgolden15.github.io/portfolio"
+# Edit next line so that baseurl is "" if your repo is <username>.github.io
+baseurl: "/template"
 
-# 2. Your Collections
-# You can specify the order shown in Archive window. 
-# Keep it null if you want to show items in alphabetic order.
-collection_order    : 
-  [
-    "posts",
-    "portfolio",
-  ]
-collections:
-#  math:   
-#    output          : true
-#    permalink       : /:collection/:title/
-#    sort_by         : date
-#    alias           : "Mathematics"
-  portfolio:
-    output          : true
-    permalink       : /:collection/:title
-    order: # specify post order manually
-#  album:
-#    output          : true
-#    permalink       : /:collection/:title/
-#    sort_by         : date
-#  physics:
-#    output          : true
-#    permalink       : /:collection/:title/
-#  biology:
-#    output          : true
-#    permalink       : /:collection/:title/
-#  finance:
-#    output          : true
-#    permalink       : /:collection/:title/
-#  my_notes:
-#    output          : true
-#    permalink       : /:collection/:title/
-    # An alias should be given or the UNDERSCORE will appeared 
- #   alias           : "My Notes"
-  posts:
-    output          : true
-    permalink       : /:collection/:title
 
-# 3. Comment settings（disqus.com）
-#disqus_username     : THISBETTERNOTBEAUSERNAMEFFS
+# OPTIONAL CHANGES
+## Specify the theme using any of the css files in css/techfolio-theme
+techfolio-theme: rubik.css
+## Specify the formatting for triple backquote code sections.
+rouge-theme: github.css
 
-# 4. Default page settings (WILL BE overwriten by front-matters of a page)
-defaults:
-  -    
-    scope:
-      path          : ""  # an empty string here means all files in the project
-    values:
-      layout              : "post"      # which layout to use by default
-      publish             : true        # whether to show by default      
-      btn_text            : true        # whether show button text by default
-      collection_list     : true        # whether show archive button by default
-      home_btn            : true        # whether show home by default
-      maximize            : true        # whether show maximize button by default
-      encrypted_text      : false       # whether use encrytion function by default
-      toc                 : true        # whether show table of content by default
-      toc_level           : 3           # the toc depth by default
-      author              : "Golden" # author name by default
-      show_date           : true        # whether show date message by default
-      category            :             # category by default
-      post_list           : false       # whether show list of post by default      
-      comment             : false
-      footer              : true        # whether show footer by default
-
-# 5. Social Media Accounts
-email               : "cameron@goldenn.dev" 
-linkedin            : 
-github              : "cgolden15" 
-gitlab              : 
-website             : "https://goldenn.dev"
-twitter             : 
-facebook            : 
-instagram           : "cam_goldenn"
-youtube             : "cgolden15"
-steam               : 
-weibo               :
-      
-# 6. Where things are
-source              : .
-destination         : ./_site
-collections_dir     : collections
-plugins_dir         : src/_plugins # takes an array of strings and loads plugins in that order
-layouts_dir         : src/_layouts
-data_dir            : src/_data
-includes_dir        : src/_includes
-sass:
-  sass_dir          : src/_sass
-
-# 7. Plugins
+# DON'T CHANGE THE FOLLOWING (unless you know what you're doing)
+markdown: kramdown
+kramdown:
+  hard_wrap: false
+  input: GFM
+  syntax_highlighter: rouge
+strict_front_matter: true
+mathjax: true
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+include:
+  - .nojekyll
+  - _data
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  
-gems: [jekyll-mermaid]
-
-# 8. Others
-# Cross-Origin Resource Sharing header
-webrick:
-  headers:
-    Access-Control-Allow-Origin: "*"
+  - jekyll-gist

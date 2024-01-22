@@ -1,7 +1,3 @@
-# cgolden15.github.io
-Yeah so I have a website ig... :shrug:
+# Professional Portfolio
 
-https://goldenn.dev
-
-
-If you would like a custom website to make your specifications, email me at cameron@goldenn.dev
+For details on this professional portfolio, please see https://techfolios.github.io.
