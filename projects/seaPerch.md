@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/seaPerch/seaperch.jpg
+image: img/seaPerch/seaperch-logo.jpg
 title: "SeaPerch"
 date: 2023
 published: true
