@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/seaPerch/seaperch.jpg
+image: img/seaPerch/seaperch-logo.jpg
 title: "SeaPerch"
 date: 2023
 published: true
@@ -11,6 +11,8 @@ labels:
   - 3D Manufacturing
 summary: "My team developed a remotely operated vehicle for the SeaPerch Competition that brought us to the international level of competition."
 ---
+
+![SeaPerch logo](../img/seaPerch/seaperch.jpg)
 
 SeaPerch is an international underwater robotics competition, hosted by RoboNation and supported by the US Office of Naval Research, Autodesk, and more. The goal of the program is to create a remotely operated vehicle(ROV) that can complete a series of tasks, which vary by year. The ROV will be operated from outside the water and thetered to the robot by a single cable which is responsible for all power and communication. Teams compete yearly on the Local, Regional and International levels, to continuously improve and innovate on their designs. 
 
