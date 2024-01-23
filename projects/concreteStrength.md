@@ -5,10 +5,12 @@ title: "Concrete Strength Predictions"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-12
 published: true
+image: https://github.com/cgolden15/cgolden15.github.io/assets/61284764/1b91feff-771e-4107-b15f-e592c1db30dc
 labels:
   - Machine Learning
   - Data Analysis
   - Model Building
+summary: Python program designed to predict the strength of new concrete mixes. 
 ---
 ## Project Description
 For my freshman year Computational Thinking and Data Science(ENGR 1330) final, we had to take a given set of data about concrete strength based on mix ratio and create an python program that could predict the strength of other mixtures, created by the user. To do this, we used a variety of libraries such as [Pandas](https://pandas.pydata.org), [matplotlib](matplotlib.org), [SeaBorn](https://seaborn.pydata.org/#), [Sklearn](https://scikit-learn.org/stable/) and more, to build RFR models and analyze their results to calculate the most optimal concrete mix ratio.  
