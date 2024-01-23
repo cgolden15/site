@@ -5,7 +5,7 @@ title: "Concrete Strength Predictions"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-12
 published: true
-image: https://github.com/cgolden15/cgolden15.github.io/assets/61284764/1b91feff-771e-4107-b15f-e592c1db30dc
+image: img/concrete.jpg
 labels:
   - Machine Learning
   - Data Analysis
