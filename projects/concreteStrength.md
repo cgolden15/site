@@ -5,7 +5,7 @@ title: "Concrete Strength Predictions"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-12
 published: true
-image: img/concrete.jpg
+image: img/concrete.png
 labels:
   - Machine Learning
   - Data Analysis
