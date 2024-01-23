@@ -15,8 +15,9 @@
   },
   "interests": [
     { "name": "Artificial Intelligence" },
-    { "name": "FDM Printing " },
+    { "name": "API's" },
     { "name": "Robotics" },
+    { "name": "FDM Printing " },
     { "name": "3D Modeling" }
   ],
   "skills": [
