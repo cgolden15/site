@@ -4,7 +4,7 @@ type: essay
 title: "placeholder"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-12
-published: true
+published: false
 labels:
   - Machine Learning
   - Data Analysis
