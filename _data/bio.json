@@ -22,11 +22,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "JavasScript", "NodeJs", "Python", "Ruby", "TypeScript", "HTML" ]
+      "keywords": [ "JavasScript", "NodeJs", "Python", "Java", "TypeScript", "HTML" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows 10/11", "Ubuntu", "Git/GitHub", "Fusion 360" ]
+      "keywords": [ "Windows 10/11", "Ubuntu", "Git/GitHub", "IntelliJ" ]
     }
   ],
   "education": [
