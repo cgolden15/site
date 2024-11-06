@@ -43,14 +43,23 @@
   "work": [
     {
       "company": "Shady Brook Farm",
-      "position": "Closing Manager",
+      "position": "Event Team Lead",
       "website": "https://shadybrookfarm.com",
       "startDate": "2021-04-19",
       "endDate": "Present",
-      "summary": "Indoor & Outdoor Closing Manager for Retail and Event Operations",
+      "summary": "Directly responsible for leading 70+ team members and ensuring smooth operation of events with 8,000+ attendees and 10 on site sales locations."
+    },
+        {
+      "company": "Shady Brook Farm",
+      "position": "Lead IT Specialist",
+      "website": "https://shadybrookfarm.com",
+      "startDate": "2023-04-19",
+      "endDate": "Present",
+      "summary": "Responsible for upkeep, maintenance and installation of hardware and software company wide.",
       "highlights": [
-        "Responsible for leading the closing shift, and evening events",
-        "carry out closing tasks, including reconciling bank deposits and preparing opening balances for opening staff."
+        "Consistently working with both wireless and wired networks",
+        "Responding to end user support requests",
+        "Working with a wide range of systems, from audio visual equipment to poe security systems"
       ]
     }
   ],
@@ -70,7 +79,7 @@
     {
       "organization": "Pennsbury High School SeaFalcons",
       "website": "",
-      "position": "Team Captian",
+      "position": "Team Captain",
       "startDate": "2022-08-30",
       "endDate": "2023-06-08",
       "summary": "Team Captain for my high school SeaPerch team.",
